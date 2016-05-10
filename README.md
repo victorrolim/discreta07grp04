@@ -1,1 +1,1 @@
-# exercicio07g04
+# discreta07grp04
